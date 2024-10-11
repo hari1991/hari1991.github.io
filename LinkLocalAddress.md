@@ -13,3 +13,5 @@ In the automatic address configuration process, network hosts select a random ca
 When a globally routable or a private address becomes available after a link-local address has been assigned, the use of the new address should generally be preferred to the link-local address for new connections but communication via the link-local address is still possible.[1]: 2.6.1 
 
 Microsoft refers to this address autoconfiguration method as Automatic Private IP Addressing (APIPA).
+
+https://www.rfc-editor.org/rfc/rfc3927
